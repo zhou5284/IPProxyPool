@@ -29,13 +29,13 @@ PROXIES_SPDERS = [
 ]
 
 # 自动启动程序爬取
-RUN_SPDERS_INTERVAL = 15  # 分钟
+RUN_SPDERS_INTERVAL = 1  # 分钟
 
 # 配置异步数量
 TEXT_PROXIES_AXYNC_COUT = 15
 
 # 自动启动检测代理
-TEXT_PROXIES_INTERVAL = 15  # 分钟
+TEXT_PROXIES_INTERVAL = 60 # 分钟
 
 # 配置获取代理最大数量,越小可用性就越高,随机性越差
 PROXIES_MAX_COUT = 50
