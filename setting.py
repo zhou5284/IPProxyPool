@@ -29,7 +29,7 @@ PROXIES_SPDERS = [
 ]
 
 # 自动启动程序爬取
-RUN_SPDERS_INTERVAL = 5  # 分钟
+RUN_SPDERS_INTERVAL = 4  # 分钟
 
 # 配置异步数量
 TEXT_PROXIES_AXYNC_COUT = 15
